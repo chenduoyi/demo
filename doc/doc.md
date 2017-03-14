@@ -2,4 +2,5 @@
 
 Hello Git!
 
-## Git 初体验
+# 链接测试
+[百度](http://www.baidu.com)
