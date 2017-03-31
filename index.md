@@ -4,3 +4,4 @@
 - [git bash 常见命令a](git-b.md)
 - [git bash 常见命令b](git-c.md)
 - [git .gitignore](.gitignore.md)
+- [git 别名及凭证](git-d.md)
