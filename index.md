@@ -12,4 +12,9 @@
 - [git 分支](git-g.md)
 - [git 冲突解决](git-g.md)
 - [git 团队协作](git-h.md)
+- [git 集中式工作流](git-h.md)
+- [git 功能分支工作流](git-h.md)
+- [git Gitflow工作流](git-h.md)
+- [git Forking工作流](git-h.md)
+- [git Pull Request 总结](git-h.md)
 
