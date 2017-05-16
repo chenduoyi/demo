@@ -1,11 +1,15 @@
 # git add深入讲解
 ## 添加新文件
+touch t.txt
 
 ## 删除文件
+git rm t.txt
 
 ## 编辑文件(增加内容,删除内容,修改内容)
+vim t.txt 后对文件内容进行增加,删除,修改, 然后保存退出
 
 ## 文件改名
+git rm t.txt tt.txt
 
 ## 文件移动
 
