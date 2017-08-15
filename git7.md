@@ -70,6 +70,9 @@ git reset --hard HEAD^ hard是硬回退. 首先将版本回退到上一次提交
 理解了上面的reset, 那checkout就更好理解了. checkout 就是将已经做了修改的文件, 想复原到本次修改最初始状态时使用.
 相当于, 这把不算, 重新开始摸.
 git checkout -- filename
-注意1: git checkout -- filename, -- 后面要加个空格, 再加文件名
+注意
+
+1: git checkout -- filename, -- 后面要加个空格, 再加文件名
+
 2: checkout 只针对工作区文件的修改, 复原到本次修改的最初状态. 而对于已经 add 到暂存区的修改是不会复原的.
 
