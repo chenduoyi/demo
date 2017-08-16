@@ -81,6 +81,9 @@ git checkout -- filename
 使用git rm filename. git commit 提交, 告诉仓库, 这个文件已被删除.
 
 ### .gitignore
-添加忽略文件列表, 如日志文件, 缓存文件, 临时文件等
+添加忽略文件列表, 如日志文件, 缓存文件, 临时文件等, 写入.gitignore 将不会被追踪.
+
+### git branch
+分支, git branch branchname
 
 
