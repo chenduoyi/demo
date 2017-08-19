@@ -98,6 +98,7 @@ git checkout -- filename
 - git branch branchname, 创建分支
 - git checkout branchname, 切换到指定分支
 - git branch -d branchname, 删除指定分支
+- git merge branchname, 合并分支, 注意合并时要明确, 当前处在哪个分支, 要将哪个分支合并过来.
 
 
 
