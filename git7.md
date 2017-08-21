@@ -4,6 +4,7 @@
 一个项目, 就可以理解为一个仓库, 仓库分为本地仓库和远程仓库.
 初始化一个仓库, 
 git init
+
 ### 增加远程仓库
 git remote add [shortname] [url]
 remote 即远程仓库, shortname 别名, url 远程仓库的地址, branch 分支, 主分支为 master
