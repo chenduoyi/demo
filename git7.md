@@ -4,6 +4,9 @@
 一个项目, 就可以理解为一个仓库, 仓库分为本地仓库和远程仓库.
 初始化一个仓库, 
 git init
+### 增加远程仓库
+git remote add [shortname] [url]
+remote 即远程仓库, shortname 别名, url 远程仓库的地址, branch 分支, 主分支为 master
 
 ## git 分区
 git 在不考虑 远程仓库的情况下, 一共有三个区. 一个工作区, 一个暂存区, 一个本地仓库.
